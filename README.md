@@ -24,10 +24,10 @@ The project focuses on determining the long-term distribution of genotypes in a 
 - Diagonalization
 
 ## Python Code
-The repository also includes Python code for faster computation and data visualization related to the project. You can find the code and usage examples in the [Python Code](link-to-code-file) file.
+The repository also includes Python code for faster computation and data visualization related to the project.
 
 ## Data Visualization
-The data visualization section provides graphical representation of probability dynamics in the population. You can view the visualization in the [Data Visualization](link-to-visualization-file) file.
+The data visualization section provides graphical representation of probability dynamics in the population.
 
 ## Use of Linear Algebra
 The project demonstrates how linear algebra plays a crucial role in understanding and analyzing genetic phenomena. It provides powerful tools for studying the relationships between alleles, genotypes, and phenotypes in populations.
